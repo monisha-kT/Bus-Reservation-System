@@ -40,4 +40,6 @@ Technologies Used
 🟢 Console-Based Application – Uses standard input/output for interaction.
 
 This is the output of the java application 
+![image](https://github.com/user-attachments/assets/d7a78eab-bb30-4a05-a495-ee81819a714e)
+
 ![image](https://github.com/user-attachments/assets/d3c7b4ee-8f92-4f91-8608-d0e19fc31ac1)
